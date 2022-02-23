@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Assignment_6</RootNamespace>
+    <StartupObject>Assignment_6.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
