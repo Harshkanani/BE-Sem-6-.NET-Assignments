@@ -1,0 +1,8 @@
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.csproj.AssemblyReference.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.AssemblyInfoInputs.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.AssemblyInfo.cs
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.csproj.CoreCompileInputs.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.MvcApplicationPartsAssemblyInfo.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.RazorAssemblyInfo.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net5.0\MVC Practical.RazorAssemblyInfo.cs

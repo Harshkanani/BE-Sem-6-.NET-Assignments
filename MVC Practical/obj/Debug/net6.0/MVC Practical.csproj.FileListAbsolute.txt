@@ -1,0 +1,63 @@
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\appsettings.Development.json
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\appsettings.json
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\MVC Practical.staticwebassets.runtime.json
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\MVC Practical.exe
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\MVC Practical.deps.json
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\MVC Practical.runtimeconfig.json
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\MVC Practical.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\MVC Practical.pdb
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Humanizer.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\dotnet-ef.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSU\Sem-6\.NET\MVC Practical\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.csproj.AssemblyReference.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.AssemblyInfoInputs.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.AssemblyInfo.cs
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.csproj.CoreCompileInputs.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.MvcApplicationPartsAssemblyInfo.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.RazorAssemblyInfo.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.RazorAssemblyInfo.cs
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\staticwebassets.build.json
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\staticwebassets.development.json
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\scopedcss\bundle\MVC Practical.styles.css
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\scopedcss\projectbundle\MVC Practical.bundle.scp.css
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.csproj.CopyComplete
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.dll
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\refint\MVC Practical.dll
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.pdb
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\MVC Practical.genruntimeconfig.cache
+D:\MSU\Sem-6\.NET\MVC Practical\obj\Debug\net6.0\ref\MVC Practical.dll
